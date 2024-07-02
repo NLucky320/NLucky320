@@ -2,17 +2,14 @@
 
 <div align='center'><img src="https://i.ibb.co/vwT42cG/BANNER.jpg" /></div>
 <hr>
-<h3 align="center">🔰 OverView 🔰</h2>
-<h2 align="center">Hi there! I'm Mst. Nazmunnahar Lucky</h1>
-<h3 align="center">A passionate learner of web development.</h3>
+<h6 align="center">🔰 OverView 🔰</h2>
+<h4 align="center">Hi there! I'm Mst. Nazmunnahar Lucky</h1>
+<h6 align="center">A passionate learner of web development.</h3>
 <!-- 
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=NLucky320&label=Profile%20views&color=0e75b6&style=flat" alt="NLucky320" /> </a>
 -->
 - 🌱 I’m currently learning **Next.Js**
 
-- 💬 Ask me about ** Node.Js | Express.Js | MongoDB | React | Javascript | Tailwind | Css | Html**
-
-- 📫 How to reach me **luckyes144@gmail.com**
  
 # Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mst-nazmunnahar-lucky)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nazmunnahar.lucky.75) 
