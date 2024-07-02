@@ -4,7 +4,7 @@
 [![wakatime](https://wakatime.com/badge/user/35a2b688-d384-483b-a9f8-8c3174f9ee3d.svg)](https://wakatime.com/@35a2b688-d384-483b-a9f8-8c3174f9ee3d)
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=NLucky320&label=Profile%20views&color=0e75b6&style=flat" alt="NLucky320" /> </a>
 -->
-[wakatime](https://wakatime.com/badge/user/35a2b688-d384-483b-a9f8-8c3174f9ee3d.svg)](https://wakatime.com/@35a2b688-d384-483b-a9f8-8c3174f9ee3d)
+
 <!--
 **NLucky320/NLucky320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
