@@ -1,3 +1,5 @@
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=NLucky320&label=Profile%20views&color=0e75b6&style=flat" alt="NLucky320" /> 
+
 <img align="center" src="https://i.ibb.co/vwT42cG/BANNER.jpg" />
 <hr>
 <h2 align="center">🔰 OverView 🔰</h2>
