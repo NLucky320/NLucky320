@@ -5,10 +5,11 @@
 <h6 align="center">🔰 OverView 🔰</h2>
 <h4 align="center">Hi there! I'm Mst. Nazmunnahar Lucky</h1>
 <h6 align="center">A passionate learner of web development.</h3>
+<h6 align="center"> I’m currently learning Next.Js.</h3>
 <!-- 
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=NLucky320&label=Profile%20views&color=0e75b6&style=flat" alt="NLucky320" /> </a>
 -->
-- 🌱 I’m currently learning **Next.Js**
+
 
  
 # Socials:
