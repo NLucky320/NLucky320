@@ -10,7 +10,7 @@
 -->
 - 🌱 I’m currently learning **Next.Js**
 
-- 💬 Ask me about ** Node.Js | Express.Js | MongoDB | React |Javascript | Tailwind | Css | Html**
+- 💬 Ask me about ** Node.Js | Express.Js | MongoDB | React | Javascript | Tailwind | Css | Html**
 
 - 📫 How to reach me **luckyes144@gmail.com**
 <!--
