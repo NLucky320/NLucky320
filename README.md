@@ -8,7 +8,11 @@
 <!-- 
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=NLucky320&label=Profile%20views&color=0e75b6&style=flat" alt="NLucky320" /> </a>
 -->
+- 🌱 I’m currently learning **Next.Js**
 
+- 💬 Ask me about ** Node.Js | Express.Js | MongoDB | React **
+
+- 📫 How to reach me **luckyes144@gmail.com**
 <!--
 **NLucky320/NLucky320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
