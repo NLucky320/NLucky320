@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/vwT42cG/BANNER.jpg" />
+<img align="center" src="https://i.ibb.co/vwT42cG/BANNER.jpg" />
 <hr>
 
 <h1 align="center">Hi, <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm Mst. Nazmunnahar Lucky</h1>
