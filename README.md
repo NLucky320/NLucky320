@@ -2,9 +2,9 @@
 
 <div align='center'><img src="https://i.ibb.co/vwT42cG/BANNER.jpg" /></div>
 <hr>
-<h4 align="center">🔰 OverView 🔰</h2>
-<h5 align="center">Hi there! I'm Mst. Nazmunnahar Lucky</h1>
-<h4 align="center">A passionate learner of web development.</h3>
+<h3 align="center">🔰 OverView 🔰</h2>
+<h4 align="center">Hi there! I'm Mst. Nazmunnahar Lucky</h1>
+<h3 align="center">A passionate learner of web development.</h3>
 <h4 align="center">🌱 I’m currently learning Next.Js.</h3>
 <h4 align="center">📫 How to reach me **luckyes144@gmail.com**</h3>
 <!-- 
