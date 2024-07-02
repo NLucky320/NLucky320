@@ -21,18 +21,16 @@
 # Technologies:
 | Stacks        | Technologies  |
 | ------------- | ------------- |
+| IDE           |![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)|
 | Language      | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|
 | Frameworks    | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 | Frontend      |  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)|
 | Backend       |![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)|
 | Database      |![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
-| IDE           |![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)|
+
 
 # Stats:
-  <div align="center">
-<!--    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=NLucky320&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="NLucky320">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=NLucky320&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=FFFFFF00&include_all_commits=false&count_private=false&layout=compact" alt="NLucky320">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=NLucky320&theme=darcula&hide_border=true&background=FFFFFF00" alt="NLucky320"> -->
+
 <div align="center">
   
 <img width="410" src="https://streak-stats.demolab.com/?user=NLucky320" />
@@ -41,7 +39,7 @@
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NLucky320&show_icons=true&locale=en&layout=compact" alt="NLucky320" /></p>
 </div>
-</div>
+
 <!--
 **NLucky320/NLucky320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
