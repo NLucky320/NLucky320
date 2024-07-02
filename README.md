@@ -27,13 +27,6 @@
 | Backend       |![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)|
 | Database      |![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
 | IDE           |![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)|
-<div align="center">
-<a href="">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ai,firebase,mongodb,nodejs,express,nextjs" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=windows,powershell,npm,vscodium,vercel,netlify,notion" />
-</a>
-  </div>
 
 # Stats:
   <div align="center">
