@@ -16,8 +16,9 @@
 # <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="30" /> Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mst-nazmunnahar-lucky)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nazmunnahar.lucky.75) 
  <hr>
-# ⚒️ Familiar-Tech/Skills ⚒️
-<br>
+
+# <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="30" /> Familiar-Tech/Skills:
+
 <div align="center">
 <a href="">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,ai,firebase,mongodb,nodejs,express,nextjs" />
