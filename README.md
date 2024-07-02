@@ -1,6 +1,6 @@
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=NLucky320&label=Profile%20views&color=0e75b6&style=flat" alt="NLucky320" /> 
 
-<img align="center" src="https://i.ibb.co/vwT42cG/BANNER.jpg" />
+
+<div align='center'><img" src="https://i.ibb.co/vwT42cG/BANNER.jpg" /></div>
 <hr>
 <h2 align="center">🔰 OverView 🔰</h2>
 <h1 align="center">Hi there! I'm Mst. Nazmunnahar Lucky</h1>
