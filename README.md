@@ -1,3 +1,6 @@
+<img src="https://i.ibb.co/vwT42cG/BANNER.jpg" />
+<hr>
+
 <h1 align="center">Hi, <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm Mst. Nazmunnahar Lucky</h1>
 <h3 align="center">A Junior Web Developer (MERN) from Bangladesh</h3>
 <!-- <img align="right" alt="Coding" width="250" h="auto" src="https://user-images.githubusercontent.com/74038190/216658123-b1fdfa47-8605-467a-ab8b-0e87a7916002.gif"> 
