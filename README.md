@@ -10,8 +10,6 @@
 <!-- 
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=NLucky320&label=Profile%20views&color=0e75b6&style=flat" alt="NLucky320" /> </a>
 -->
-
-
  
 # Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mst-nazmunnahar-lucky)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nazmunnahar.lucky.75) 
@@ -26,8 +24,6 @@
 | Frontend      |  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)|
 | Backend       |![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)|
 | Database      |![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
-
-
 
 # Stats:
 
