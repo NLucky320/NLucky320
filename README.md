@@ -1,6 +1,7 @@
 
 
 <div align='center'><img src="https://i.ibb.co/vwT42cG/BANNER.jpg" /></div>
+[![wakatime](https://wakatime.com/badge/user/https://wakatime.com/@6e2b368c-5f5c-4210-bce2-878581760c2a)](https://wakatime.com/https://wakatime.com/@6e2b368c-5f5c-4210-bce2-878581760c2a)
 <hr>
 <h3 align="center">🔰 OverView 🔰</h2>
 <h4 align="center">Hi there! I'm Mst. Nazmunnahar Lucky</h1>
