@@ -27,16 +27,6 @@
 | Backend       |![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)|
 | Database      |![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
 
-# Stats:
-
-<div align="center">
-  
-<img width="410" src="https://streak-stats.demolab.com/?user=NLucky320" />
-
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=NLucky320&show_icons=true&rank_icon=github" />
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NLucky320&show_icons=true&locale=en&layout=compact" alt="NLucky320" /></p>
-</div>
 
 <!--
 **NLucky320/NLucky320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
