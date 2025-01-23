@@ -8,7 +8,6 @@
 <h3 align="center">🔰 OverView 🔰</h2>
 <h4 align="center">Hi there! I'm Mst. Nazmunnahar Lucky</h1>
 <h4 align="center">A dedicated and enthusiastic learner in web development.</h3>
-<h4 align="center">🌱 I’m currently learning Next.Js.</h3>
 <h4 align="center">📫 How to reach me **luckyes144@gmail.com**</h3>
 <!-- 
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=NLucky320&label=Profile%20views&color=0e75b6&style=flat" alt="NLucky320" /> </a>
