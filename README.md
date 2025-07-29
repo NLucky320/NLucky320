@@ -6,7 +6,7 @@
 [![wakatime](https://wakatime.com/badge/user/6e2b368c-5f5c-4210-bce2-878581760c2a.svg)](https://wakatime.com/@6e2b368c-5f5c-4210-bce2-878581760c2a)
 <hr>
 <h3 align="center">🔰 OverView 🔰</h2>
-<h4 align="center">Hi there! I'm Mst. Nazmunnahar Lucky</h1>
+<h4 align="center">Hi there! I'm Nazmunnahar Lucky</h1>
 <h4 align="center">A dedicated and enthusiastic learner in web development.</h3>
 <h4 align="center">📫 How to reach me **luckyes144@gmail.com**</h3>
 <!-- 
