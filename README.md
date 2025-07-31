@@ -1,7 +1,7 @@
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=NLucky320&label=Profile%20views&color=0e75b6&style=flat" alt="NLucky320" /> </p>
-<div align='center'><img src="https://i.ibb.co/YFbwK1FK/cover-image.png" /></div>
+<div align='center'><img src="https://i.ibb.co/Y4VK9yLg/cover-image.png" /></div>
 
 [![wakatime](https://wakatime.com/badge/user/6e2b368c-5f5c-4210-bce2-878581760c2a.svg)](https://wakatime.com/@6e2b368c-5f5c-4210-bce2-878581760c2a)
 <hr>
